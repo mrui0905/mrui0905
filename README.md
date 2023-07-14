@@ -4,7 +4,7 @@ I'm passionate about quantitatively seeking a better understanding of the world 
 I'm currently studying Computer Science, Mathematics, and Finance at Duke University and exploring machine learning, web3, and quantitative finance in my free time.
 You'll also catch me at the tennis courts and exploring the Rocky Mountains of my home state Colorado.
 
-I can be contacted via matthew.rui@duke.edu or [LinkedIn]([url](https://www.linkedin.com/in/matthewrui/)).
+I can be contacted via matthew.rui@duke.edu or [LinkedIn](https://www.linkedin.com/in/matthewrui/).
 
 🌱 I’m currently:
 - Working with the FBI and Violence Project to study and model the local effects mass shootings have on gun sales and further community deaths.
