@@ -10,7 +10,7 @@ I can be contacted via matthew.rui@duke.edu or [LinkedIn]([url](https://www.link
 - Working with the FBI and Violence Project to study and model the local effects mass shootings have on gun sales and further community deaths.
 - Taking a graduate-level math course in Stochastic Calculus to better understand portfolio construction and Brownian motion.
 - Developing a prototype private blockchain used to tokenize equity in private investment funds.
-- 
+
 🕕 In the past, I've:
 - Modeled Monopoly and created machine learning models to optimize "aggression style" to maximize win percentage.
 - Collaborated with educators across the U.S. to design a more ethical and inclusive introductory CS curriculum currently used in 7 high schools. 
