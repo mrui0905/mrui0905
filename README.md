@@ -12,7 +12,7 @@ I can be contacted via matthew.rui@duke.edu or [LinkedIn](https://www.linkedin.c
 - Developing a prototype private blockchain used to tokenize equity in private investment funds.
 
 🕕 In the past, I've:
-- Placed 1st at Citadel's 2023 Summer Invitational Datathon utilizing regression models, random forest regressors, SCMs, PCAs, and Difference-In-Difference models. 
+- Placed 1st at Citadel's 2023 Summer Invitational Datathon utilizing regression models, random forest regressors, SCMs, and Difference-In-Difference models. 
 - Modeled Monopoly and created machine learning models to optimize "aggression style" to maximize win percentage.
 - Collaborated with educators across the U.S. to design a more ethical and inclusive introductory CS curriculum currently used in 7 high schools. 
 
