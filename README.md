@@ -1,15 +1,15 @@
 ### Hi, I'm Matthew! 👋
 
 I'm passionate about quantitatively seeking a better understanding of the world and building technologies for a more sustainable and equitable future!
-I'm currently studying Computer Science, Mathematics, and Finance at Duke University and exploring machine learning, web3, and quantitative finance in my free time.
+I'm currently studying Computer Science, Mathematics, and Statistics at Duke University and exploring machine learning, web3, and quantitative finance in my free time.
 You'll also catch me at the tennis courts and exploring the Rocky Mountains of my home state Colorado.
 
 I can be contacted via matthew.rui@duke.edu or [LinkedIn](https://www.linkedin.com/in/matthewrui/).
 
 🌱 I’m currently:
 - Working with the FBI and Violence Project to study and model the local effects mass shootings have on gun sales and further community deaths.
-- Taking a graduate-level math course in Stochastic Calculus to better understand portfolio construction and Brownian motion.
-- Developing a prototype private blockchain used to tokenize equity in private investment funds.
+- Taking a graduate-level math course in Stochastic Processes to better understand randomness and Brownian motion.
+- Looking forward to joining Castleton Commodities International as a Quantitative Trading Intern for Summer 2024.
 
 🕕 In the past, I've:
 - Placed 1st at Citadel's 2023 Summer Invitational Datathon utilizing regression models, random forest regressors, SCMs, and Difference-In-Difference models. 
