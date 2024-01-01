@@ -9,7 +9,7 @@ I can be contacted via matthew.rui@duke.edu or [LinkedIn](https://www.linkedin.c
 🌱 I’m currently:
 - Working with the FBI and Violence Project to study and model the local effects mass shootings have on gun sales and further community deaths.
 - Researching Markov Chain mixing times and efficient Monte Carlo Algorithms with Dr. Scott Schmidler.
-- Investigating neural network behavior, applying novel neuroscience methods to better understand GANs.
+- Investigating neural network behavior, applying novel neuroscience methods to better understand GANs with Dr. Tan Songdechakraiwut.
 
 🕕 In the past, I've:
 - Placed 1st at Citadel's 2023 Summer Invitational Datathon utilizing regression models, random forest regressors, SCMs, and Difference-In-Difference models. 
