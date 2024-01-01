@@ -8,12 +8,12 @@ I can be contacted via matthew.rui@duke.edu or [LinkedIn](https://www.linkedin.c
 
 🌱 I’m currently:
 - Working with the FBI and Violence Project to study and model the local effects mass shootings have on gun sales and further community deaths.
-- Taking a graduate-level math course in Stochastic Processes to better understand randomness and Brownian motion.
-- Looking forward to joining Castleton Commodities International as a Quantitative Trading Intern for Summer 2024.
+- Researching Markov Chain mixing times and efficient Monte Carlo Algorithms with Dr. Scott Schmidler.
+- Investigating neural network behavior, applying novel neuroscience methods to better understand GANs.
 
 🕕 In the past, I've:
 - Placed 1st at Citadel's 2023 Summer Invitational Datathon utilizing regression models, random forest regressors, SCMs, and Difference-In-Difference models. 
-- Modeled Monopoly and created machine learning models to optimize "aggression style" to maximize win percentage.
+- Created a private investment blockchain to facilitate ICO fundraisings and efficient dividend payments.
 - Collaborated with educators across the U.S. to design a more ethical and inclusive introductory CS curriculum currently used in 7 high schools. 
 
 🧠 I'm interested in learning more about:
